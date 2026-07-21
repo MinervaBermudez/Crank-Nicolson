@@ -1,12 +1,3 @@
----
-title: "Heat Equation: Crank–Nicolson Finite-Difference Method"
-author: "Minerva Bermúdez Ferrer"
-output:
-  github_document:
-    toc: true
-    toc_depth: 2
----
-
 # Heat Equation: Crank–Nicolson Finite-Difference Method
 
 This repository contains a numerical solution of the **one-dimensional heat equation** using the Crank–Nicolson finite-difference method.
