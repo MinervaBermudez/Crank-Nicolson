@@ -241,18 +241,6 @@ No additional Octave packages are required.
 
 ## Running the simulation
 
-Save the program as
-
-```text
-crank_nicolson_heat.m
-```
-
-and run it with
-
-```bash
-octave crank_nicolson_heat.m
-```
-
 The spatial and temporal resolution can be changed by modifying
 
 ```octave
